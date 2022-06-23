@@ -1,5 +1,0 @@
-Controlls:
-
-Keyboard - W,A,S,D to Move and Space Bar to attack
-
-Controller (must have Xbox controller for 2P) - left joystick or Dpad to move and X to attack
